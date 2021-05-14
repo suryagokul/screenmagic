@@ -56,6 +56,20 @@ For Windows
 
 	   python run.py
 
+Project Structure : 
+ 
+		project_sendmail
+		    ├── mail_utils
+		    │   ├── current_time.py
+		    │   ├── __init__.py
+		    │   ├── validate_mail.py
+		    │   ├── validate_number.py
+		    │   └── write_file.py
+		    ├── messages.txt
+		    ├── run.py
+		    └── Sample.csv
+
+
     
 
 
