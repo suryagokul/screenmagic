@@ -7,9 +7,9 @@ requirements :
 
 HowToRun the project
 
-pip install requirements.txt
+	pip install requirements.txt
 
-python run.py        give input sender mail and password..
+	python run.py        (give input sender mail and password..)
 
 run.py takes all the data and it will done all validations,then send mails..
 
@@ -46,15 +46,15 @@ For Linux
 
 For Windows
 
-   pip install virtualenv 
+	   pip install virtualenv 
 
-   virtualenv myenv
+	   virtualenv myenv
 
-   myenv\Scripts\activate      (You can explicitly specify your path too.)
+	   myenv\Scripts\activate      (You can explicitly specify your path too.)
 
-   pip install requirements.txt
+	   pip install requirements.txt
 
-   python run.py
+	   python run.py
 
     
 
