@@ -1,4 +1,4 @@
-create twilio_keys file in same directory. 
+create twilio_keys file in this directory.I haven't uplodaed here because not to expose my api keys. 
 	
 	In that file type below line & replace values with ur api keys. 
 	
