@@ -14,4 +14,4 @@ steps :
 
 	open cmd where this file exists and type
 
-		python send_message.py
+		python run_main.py
